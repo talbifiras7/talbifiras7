@@ -29,15 +29,10 @@ AI & Robotics enthusiast focused on humanoid robotics, machine learning, and int
 ## 📊 Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talbifiras7&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talbifiras7&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=talbifiras7&theme=radical" />
 </p>
 
-## 🌐 Connect with m
+## 🌐 Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/talbi-firas-06bb3625b/">
